@@ -39,7 +39,7 @@ It serves as a bridge between my personal work and the official organization, ke
 
 ## 🧠 Who I Am
 
-Hi, I’m **Jonathan Michael George** (aka `Jonnygeo`, `JokerJonny`, or `Hackpen`).  
+Hi, I’m **Jonathan** (aka `Jonnygeo`, `JokerJonny`, or `Hackpen`).  
 I'm a full-stack developer, spiritual coder, and visionary behind NeoShade AI — a platform where AI, legacy, and ethics converge to preserve who we are for future generations.
 
 ---
