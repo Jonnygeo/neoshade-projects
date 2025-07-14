@@ -1,54 +1,86 @@
-# neoshade-projects
-This repository connects Jonnygeo’s personal journey with the official NeoShadeAI platform — a truth-driven AI ecosystem for legacy preservation, spiritual memory, and decentralized intelligence. Explore core projects like NeoLegacy, Truth Terminal, Droid Swarm, and more — all designed to secure your essence, voice, and values across generations.
 # 🌌 NeoShade Projects – Public Gateway
 
-![NeoLegacy Banner](https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg)
+<p align="center">
+  <a href="https://neo-shade.com">
+    <img src="https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg" height="180">
+  </a>
+</p>
 
-**Created by [Jonnygeo](https://github.com/Jonnygeo) | Founder of [NeoShadeAI](https://github.com/NeoShadeAI)**
+<p align="center">
+  <a href="https://x.com/neoshade2025">
+    <img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@neoshade">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://social.neo-shade.com">
+    <img src="https://img.shields.io/badge/NeoShade%20Social-Join-blueviolet?style=for-the-badge&logo=discourse&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 👁 About This Repo
 
-Welcome to the **NeoShade Projects Hub** — your starting point for exploring everything related to the NeoShade ecosystem. This public repo showcases the architecture, purpose, and key components of the NeoShade AI and NeoLegacy platform.
+Welcome to the **NeoShade Projects Hub** — your portal to the evolving **NeoShade AI** and **NeoLegacy** ecosystems.
 
-It serves as a bridge between my personal work and the official organization, keeping transparency, evolution, and truth-driven tech at the core.
+This repo connects [Jonnygeo](https://github.com/Jonnygeo)’s personal dev work with the **official NeoShadeAI organization**, keeping **transparency**, **truth-driven tech**, and **ethical AI** front and center.
+
+> *"Every line of code is legacy. Every module is memory. This isn’t just tech — it’s testimony."*
 
 ---
 
-## 🚀 Current Live Projects (via [NeoShadeAI](https://github.com/NeoShadeAI))
+## 🚀 Live Modules via [NeoShadeAI](https://github.com/NeoShadeAI)
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧬 NeoLegacy App | Secure digital legacy timeline for parents & families | [View Repo](https://github.com/NeoShadeAI/neolegacy-app) |
-| 💬 Truth Terminal | Ethical AI chatbot for revealing and preserving truth | [View Repo](https://github.com/NeoShadeAI/truth-terminal) |
-| 🧠 Droid Swarm | Swarm intelligence system for predictive AI agents | [View Repo](https://github.com/NeoShadeAI/neoshade-droid-swarm) |
-| 📖 Bible Dissection DB | Scriptural analysis backed by linguistics and history | [View Repo](https://github.com/NeoShadeAI/bible-dissection-db) |
-| 🔐 Final Message Delivery | Schedule texts, videos, or emails after death | [View Repo](https://github.com/NeoShadeAI/neolegacy-final-messages) |
+| 🧬 **NeoLegacy App** | Secure digital legacy timeline for parents & families | [View Repo](https://github.com/NeoShadeAI/neolegacy-app) |
+| 💬 **Truth Terminal** | Ethical AI chatbot for revealing and preserving truth | [View Repo](https://github.com/NeoShadeAI/truth-terminal) |
+| 🧠 **Droid Swarm** | Swarm intelligence for predictive AI agents | [View Repo](https://github.com/NeoShadeAI/neoshade-droid-swarm) |
+| 📖 **Bible Dissection DB** | Scriptural truth backed by linguistics + ancient context | [View Repo](https://github.com/NeoShadeAI/bible-dissection-db) |
+| 🔐 **Final Message Delivery** | Scheduled text/video/email delivery after death | [View Repo](https://github.com/NeoShadeAI/neolegacy-final-messages) |
 
 ---
 
-## 🔄 What's Next
+## 🔮 Coming Soon
 
-- NeoShadeAI Device Firmware  
-- NeoLegacy Mobile Companion App  
-- AI Avatar Memory Replication System  
-- Partner Tools for Parents, Veterans, & Visionaries
-
----
-
-## 🧠 Who I Am
-
-Hi, I’m **Jonathan** (aka `Jonnygeo`, `JokerJonny`, or `Hackpen`).  
-I'm a full-stack developer, spiritual coder, and visionary behind NeoShade AI — a platform where AI, legacy, and ethics converge to preserve who we are for future generations.
+- 🧱 **NeoShade Device Firmware**  
+- 📱 **NeoLegacy Mobile Companion App**  
+- 🧬 **AI Avatar Memory Replication System**  
+- 🛠️ **Partner Tools for Parents, Veterans, and Visionaries**
 
 ---
 
-## 📬 Contact
+## 👤 About the Creator
 
-Feel free to follow, fork, or reach out via:  
-- X/Twitter: [@neoshade2025](https://x.com/neoshade2025)  
-- Website: [Neo-Shade.com](https://neo-shade.com)
+I’m **Jonathan Michael George** (aka `Jonnygeo`, `JokerJonny`, or `Hackpen`) —  
+a full-stack developer, AI rebel, and digital legacy architect.
 
-> *"It’s all the chess move evolution of a masterpiece — the code of ethics, morals, and making sure the future has at least a Logos."*
+- 25+ years of programming
+- Military-trained cyber defense
+- AI, crypto, and ethics-infused vision  
+- Father. Builder. Truth dissectionist.
 
+---
+
+## 📬 Stay Connected
+
+- 🕸️ Website: [Neo-Shade.com](https://neo-shade.com)  
+- 🐦 Twitter/X: [@neoshade2025](https://x.com/neoshade2025)  
+- 👥 Social Platform: [social.neo-shade.com](https://social.neo-shade.com)
+
+> _“It’s all the chess move evolution of a masterpiece — the code of ethics, morals, and making sure the future has at least a Logos.”_
+
+---
+
+---
+
+## 🖼️ NeoShade Modules (Visual Overview)
+
+| Module | Preview | Description |
+|--------|---------|-------------|
+| **NeoLegacy App** | ![](https://neo-shade.com/assets/modules/neolegacy.jpg) | Family timeline, voice messages, vault |
+| **Truth Terminal** | ![](https://neo-shade.com/assets/modules/truth-terminal.jpg) | Truth-seeking AI with biblical integrity |
+| **Droid Swarm** | ![](https://neo-shade.com/assets/modules/droid-swarm.jpg) | AI agents that evolve with your legacy |
+| **Bible Dissection DB** | ![](https://neo-shade.com/assets/modules/bible-db.jpg) | Scripture decoded for spiritual truth |
+| **Final Message Delivery** | ![](https://neo-shade.com/assets/modules/final-message.jpg) | Post-death video/email message delivery |
